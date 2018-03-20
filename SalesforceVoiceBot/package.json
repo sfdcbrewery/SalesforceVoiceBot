@@ -1,0 +1,29 @@
+{
+  "name": "web-speech-ai",
+  "version": "1.0.0",
+  "description": "SFDC IntuBot with Web Speech API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nf start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sri Kolagani",
+  "license": "MIT",
+  "dependencies": {
+    "apiai": "^4.0.2",
+    "body-parser": "^1.18.2",
+    "botbuilder": "^3.11.0",
+    "ejs": "^2.5.6",
+    "express": "^4.16.2",
+    "forcejs": "^2.0.5",
+    "moment": "^2.19.1",
+    "nforce": "^1.7.0",
+    "numeral": "^2.0.6",
+    "opn": "^5.1.0",
+    "path": "^0.12.7",
+    "request": "^2.83.0",
+    "restify": "^6.3.1",
+    "socketio": "^1.0.0"
+  },
+  "keywords": []
+}

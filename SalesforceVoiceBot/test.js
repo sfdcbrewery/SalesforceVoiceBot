@@ -1,0 +1,1 @@
+window.open( "/Users/SriharideepKolagani/Downloads/web-speech-ai-master/manager_profile.html");
